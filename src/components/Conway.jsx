@@ -100,7 +100,7 @@ export default function Conway() {
   };
 
   return (
-    //dans le return on affiche le boutton pour jouer et la grille*
+    //dans le return on affiche le boutton pour jouer et la grille
     <div className='font-candara flex justify-evenly'>
       <button
         className='h-[60px] w-auto p-4 bg-green-600 rounded-2xl mt-[400px]'
